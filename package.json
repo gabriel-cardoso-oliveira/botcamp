@@ -1,0 +1,8 @@
+{
+  "name": "botcamp",
+  "version": "1.0.0",
+  "description": "Projeto do BotCamp da Impulso NetWork",
+  "main": "index.js",
+  "author": "Gabriel Cardoso de Oliveira Pereira",
+  "license": "MPL-2.0"
+}
